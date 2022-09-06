@@ -1,6 +1,6 @@
 # 🏗️ WorldEdit
 
-A Terraria plugin including many mass tile editing features. Documentation on commands is included in the wiki.
+A Terraria plugin including many mass tile editing features. Documentation on commands is included in the [wiki](https://github.com/Rozen4334/WorldEdit/wiki).
 
 ## ⚠️ Important:
 
@@ -27,4 +27,4 @@ Any work done on the private repository will be released here. WorldEdit is MIT 
 
 ## 📃 Documentation
 
-You can go to the wiki to find an elaborate documentation on WorldEdit's commands & permissions.
+You can go to the [wiki](https://github.com/Rozen4334/WorldEdit/wiki) to find an elaborate documentation on WorldEdit's commands & permissions.
