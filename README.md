@@ -14,7 +14,7 @@ The source code is not privated due to not willing to share WorldEdit's internal
 
 You can open an issue and I will grant access to the private repository. 
 
-> Please note that you may not receive access if I suspect you want access for other reasons. I am free to deny your request for any reason I deem valid, as I am in control of my own work. Make sure to elaborate why you want access.
+> Please note that you may not receive access if I suspect you want it for other reasons. I am free to deny your request for any reason I deem valid, as I am in control of my own work. Make sure to elaborate why you want access.
 
 ## 🆕 Releases:
 
